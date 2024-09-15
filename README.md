@@ -1,1 +1,1 @@
-# nodehub_yolov10_object_detection
+# nodehub_yolov8_object_detection
